@@ -346,33 +346,10 @@ The project uses TypeScript throughout with:
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
+
+![EkranKayd2025-12-02114048-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ceb45128-da80-46db-a0b8-38557d04a11e)
+
+
+
 4. Add tests if applicable
 5. Submit a pull request
-
-## 📝 License
-
-This project is created for educational purposes as part of a frontend development assessment.
-
----
-
-**Cart Synchronization System Rebuilt Successfully!** ✅
-
-The microfrontend e-commerce system now features a **completely rewritten cart synchronization system** that solves all previous issues:
-
-- 🔧 **Fixed**: Infinite loops caused by complex useEffect dependencies
-- 🔧 **Fixed**: Cart data loss when navigating between applications
-- 🔧 **Fixed**: BroadcastChannel cross-origin limitations
-- 🔧 **Fixed**: Polling-based synchronization causing performance issues
-
-**New System Benefits:**
-
-- ⚡ **Instant synchronization** using native browser storage events
-- 🛡️ **Error-tolerant** architecture with proper fallbacks
-- 🎯 **Simple & reliable** - single source of truth in CartManager service
-- 📦 **Lightweight** - removed Redux/complex state management
-- 🔒 **Type-safe** - full TypeScript coverage
-
-The system is now production-ready with robust cart synchronization between microfrontends!
-
-Test update for PR
-
